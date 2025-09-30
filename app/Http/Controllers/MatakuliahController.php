@@ -49,6 +49,6 @@ class MatakuliahController extends Controller
     // Hapus data matakuliah
     public function destroy($id)
     {
-        return "Hapus data matakuliah dgn id " . $id;
+        return "Hapus data matakuliah dgnhttps://github.com/shofiyyah24si/framework-pertemuan-3.git id " . $id;
     }
 }
