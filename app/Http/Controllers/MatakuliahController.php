@@ -49,6 +49,6 @@ class MatakuliahController extends Controller
     // Hapus data matakuliah
     public function destroy($id)
     {
-        return "Hapus data matakuliah dengan id " . $id;
+        return "Hapus data matakuliah dgn id " . $id;
     }
 }
